@@ -5,4 +5,4 @@ This is the first version of a simulator. This simulator has the objective to si
   As you can see in image above, the simulator contains the a 3D picture and some controls on the left. ALso, it contains a separate window to adjust the angle of each blade in animation + a start position of the model (if not intended, please don't change them). 
   In tab Constants you can change the different lenght of blades.
   
-#If you have problem with simulator, contact me :)
+# If you have problem with simulator, contact me :)
